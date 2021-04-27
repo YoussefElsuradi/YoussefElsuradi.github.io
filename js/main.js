@@ -1,9 +1,9 @@
 function styleDefault(){
-	$('#particles-js').css("background-color", "rgb(0,0,0)");
+	$('#particles-js').css("background-color", "rgb(170, 114, 173)");
 	particlesJS("particles-js", {
 		"particles": {
 		"number": {
-			"value": 80,
+			"value": 120,
 			"density": {
 			"enable": true,
 			"value_area": 800
