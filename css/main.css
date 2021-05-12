@@ -226,6 +226,17 @@ body.dragging .nav-pointer {
     min-height: 100px;
     background: transparent;
 }
+.project {
+  background-color: #333333;
+}
+.h3p {
+  color: #E0E0E0;
+  text-align: center;
+}
+.p1 {
+  color: #E0E0E0;
+  text-align: center;
+}
 
 /* ----------------------
   experience (company)
@@ -704,6 +715,7 @@ body.dragging .nav-pointer {
 @media screen and (min-aspect-ratio: 4/3) {
   body {
     background-size: cover;
+    background-color: #333333;
   }
   body:before {
     width: 0px;

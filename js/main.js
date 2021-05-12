@@ -117,7 +117,7 @@ function styleSpace(){
 	particlesJS("particles-js", {
 		"particles": {
 			"number": {
-				"value": 160,
+				"value": 250,
 				"density": {
 				"enable": true,
 				"value_area": 800
@@ -152,11 +152,11 @@ function styleSpace(){
 				}
 			},
 			"size": {
-				"value": 3,
+				"value": 4,
 				"random": true,
 				"anim": {
 				"enable": false,
-				"speed": 4,
+				"speed": 8,
 				"size_min": 0.3,
 				"sync": false
 				}
@@ -231,7 +231,7 @@ function styleSnow(){
 	particlesJS("particles-js", {
 		"particles": {
 		"number": {
-			"value": 400,
+			"value": 200,
 			"density": {
 			"enable": true,
 			"value_area": 800
@@ -266,11 +266,11 @@ function styleSnow(){
 			}
 		},
 		"size": {
-			"value": 10,
+			"value": 8,
 			"random": true,
 			"anim": {
 			"enable": false,
-			"speed": 40,
+			"speed": 30,
 			"size_min": 0.1,
 			"sync": false
 			}
