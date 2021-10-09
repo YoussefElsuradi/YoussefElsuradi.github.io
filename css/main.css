@@ -7,6 +7,13 @@
 /* ----------------------
 	Timeline
 ------------------------*/
+
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 .wrap {
   margin: 0 auto;
   max-width: 1140px;
@@ -232,6 +239,7 @@ body.dragging .nav-pointer {
 .h3p {
   color: #E0E0E0;
   text-align: center;
+  font-size: 50px;
 }
 .p1 {
   color: #E0E0E0;
