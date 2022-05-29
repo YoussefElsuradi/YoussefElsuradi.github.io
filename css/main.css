@@ -423,7 +423,6 @@ body.dragging .nav-pointer {
   -webkit-animation: scaleIn 0.3s 3.5s ease forwards;
   animation: scaleIn 0.3s 3.5s ease forwards;
 }
-
 .profile-card header a > img {
   width: 120px;
   max-width: 100%;
